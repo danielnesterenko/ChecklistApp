@@ -5,5 +5,5 @@ It is built in AndroidStudio using Java and supports English & German Language.
 
 
 
-<img width="543" alt="Bildschirmfoto 2022-09-08 um 09 42 19" src="https://user-images.githubusercontent.com/97851328/189065912-3a2122e5-84b3-4152-94d3-42371a1cc9cc.png"> 
-<img width="542" alt="Bildschirmfoto 2022-09-08 um 09 48 55" src="https://user-images.githubusercontent.com/97851328/189065929-5bf00848-905a-496d-864f-d3110e6b87be.png">
+<img width="543" alt="checklist_eng src="https://user-images.githubusercontent.com/97851328/189065912-3a2122e5-84b3-4152-94d3-42371a1cc9cc.png"> 
+<img width="542" alt="checklist_de" src="https://user-images.githubusercontent.com/97851328/189065929-5bf00848-905a-496d-864f-d3110e6b87be.png">
