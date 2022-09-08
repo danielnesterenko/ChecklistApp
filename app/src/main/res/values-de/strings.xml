@@ -4,4 +4,5 @@
     <string name="note">Notiz hier eingeben ...</string>
     <string name="save">SPEICHERN</string>
     <string name="reset">ZURÜCKSETZEN</string>
+    <string name="todo">ZU ERLEDIGEN</string>
 </resources>

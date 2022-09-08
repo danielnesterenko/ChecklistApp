@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
 
-        checklist_adapter = new ArrayAdapter<>(MainActivity.this, android.R.layout.simple_list_item_multiple_choice, checklist);
+        checklist_adapter = new ArrayAdapter<>(MainActivity.this, android.R.layout.simple_list_item_1, checklist);
         ListView checklist_listView = findViewById(R.id.listview_TODO);
         checklist_listView.setAdapter(checklist_adapter);
         EditText userInput = findViewById(R.id.input);

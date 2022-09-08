@@ -3,4 +3,5 @@
     <string name="note">Enter Note here ...</string>
     <string name="save">SAVE</string>
     <string name="reset">RESET</string>
+    <string name="todo">TO-DO</string>
 </resources>
